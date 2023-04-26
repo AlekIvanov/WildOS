@@ -1,0 +1,18 @@
+main {
+	background:url('../img/bg.jpg');
+	background-size:cover;
+	background-position:center;
+	background-attachment:fixed;
+}
+.logo {width:40px;}
+.bg-dark {background-color: #060b04 !important;}
+.navbar-brand {color: #affe8e !important;font-weight: 200;}
+.header {
+	background: linear-gradient(to right, rgba(43,211,237,0.5), rgba(43,211,237,0.5) 100% ) no-repeat border-box, linear-gradient(to right, rgba(43,211,237,0.5), rgba(43,211,237,0.5) 100% ) no-repeat border-box, linear-gradient(to bottom, rgba(25,99,126,0.75), rgba(25,99,126,0.5) 100% ) no-repeat border-box;
+    background-position: left 0px top 0px, left 0px bottom 0px, left 0px top 0px;
+    background-size: 100% 1px, 100% 1px, 100% 100%;
+	font-size: 24px;
+	text-shadow: 2px 2px 1px #000;
+}
+.bg {background: rgba(9,14,15,0.8);padding:15px;}
+.box-shadow {box-shadow: 0px 0px 10px rgb(128 228 255 / 50%);}
