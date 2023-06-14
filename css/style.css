@@ -15,4 +15,10 @@ main {
 	text-shadow: 2px 2px 1px #000;
 }
 .bg {background: rgba(9,14,15,0.8);padding:15px;}
-.box-shadow {box-shadow: 0px 0px 10px rgb(128 228 255 / 50%);}
+.my-box-shadow {box-shadow: 0px 0px 10px rgb(128 228 255 / 50%);}
+.dhtmlx_window_active {
+	width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+}
